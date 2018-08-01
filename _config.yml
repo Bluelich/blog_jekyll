@@ -3,6 +3,7 @@
 # ---------------- #
 baseurl:
 url: https://mazhuang.org
+port: 4002
 date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
