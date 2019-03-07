@@ -17,8 +17,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
+organization: 
+organization_url: 
 github_username: mzlogin
 location: Wuhan, China
 email: chumpma@gmail.com
@@ -63,7 +63,7 @@ markdown: kramdown
 kramdown:
     input: GFM
 highlighter: rouge
-paginate: 8
+paginate: 10
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
